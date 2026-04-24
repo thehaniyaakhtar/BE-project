@@ -213,10 +213,5 @@ http://127.0.0.1:5000
 
 ---
 
-## ⭐ Final Note
-
-To the best college project team ever, who I could always rely on to bring my ideas to fruition as I fiddlled around.
-
----
 
 ⚡ *Powering smarter cities, one prediction at a time.*
